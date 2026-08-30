@@ -69,12 +69,7 @@ aws-static-portfolio/
 
 ![Skills](https://github.com/Pravesh880082/pravesh880082/blob/1396a40ec34dc5709d2e608108938e000af08d62/skill.png.png)
 
-### s3-bucket
-![bucket]
-(https://github.com/Pravesh880082/AWS-PORTFOLIO/blob/994fed48141ac9853c06ee1a694440e2a8735643/Screenshot%202026-08-30%20122303.png)
 
-### website-endpoint
-()
 ## 🎯 What I Learned
 
 Through this project, I learned how to:
