@@ -63,7 +63,7 @@ aws-static-portfolio/
 
 ### Projects Section
 
-![Projects](screenshots/projects.png)
+![Projects](https://github.com/Pravesh880082/pravesh880082/blob/1396a40ec34dc5709d2e608108938e000af08d62/project.png.png)
 
 ### Skills Section
 
