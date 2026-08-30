@@ -59,7 +59,7 @@ aws-static-portfolio/
 
 ### Home Page
 
-![Home Page](<img width="1322" height="617" alt="Image" src="https://github.com/user-attachments/assets/b82edb87-2ec8-4d9a-872c-c03fdacee537" />)
+![Home Page](https://github.com/Pravesh880082/pravesh880082/blob/1396a40ec34dc5709d2e608108938e000af08d62/home.png.png)
 
 ### Projects Section
 
