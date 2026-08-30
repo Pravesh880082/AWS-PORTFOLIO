@@ -70,7 +70,7 @@ aws-static-portfolio/
 ![Skills](https://github.com/Pravesh880082/pravesh880082/blob/1396a40ec34dc5709d2e608108938e000af08d62/skill.png.png)
 
 ### s3-bucket
-()
+(https://github.com/Pravesh880082/AWS-PORTFOLIO/blob/88a858559875a08c9d001ee165d5d3eb8b9c7710/Screenshot%202026-08-30%20122303.png)
 
 ### website-endpoint
 ()
