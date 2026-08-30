@@ -59,7 +59,7 @@ aws-static-portfolio/
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](<img width="1322" height="617" alt="Image" src="https://github.com/user-attachments/assets/b82edb87-2ec8-4d9a-872c-c03fdacee537" />)
 
 ### Projects Section
 
