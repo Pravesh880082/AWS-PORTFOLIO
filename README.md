@@ -67,7 +67,7 @@ aws-static-portfolio/
 
 ### Skills Section
 
-![Skills](screenshots/skills.png)
+![Skills](https://github.com/Pravesh880082/pravesh880082/blob/1396a40ec34dc5709d2e608108938e000af08d62/skill.png.png)
 
 ## 🎯 What I Learned
 
