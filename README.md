@@ -7,6 +7,9 @@ A professional dark-themed personal portfolio website built with **HTML, CSS and
 🔗 **AWS S3 Website:**
 http://pravesh-portfolio.s3-website.eu-north-1.amazonaws.com
 
+**Github Pages Website**
+https://pravesh880082.github.io/AWS-PORTFOLIO/
+
 ## 🛠️ Technologies Used
 
 * HTML5
